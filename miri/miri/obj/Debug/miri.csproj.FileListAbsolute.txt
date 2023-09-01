@@ -1,0 +1,8 @@
+C:\Users\Predator\Desktop\miri\miri\miri\bin\Debug\miri.exe.config
+C:\Users\Predator\Desktop\miri\miri\miri\bin\Debug\miri.exe
+C:\Users\Predator\Desktop\miri\miri\miri\bin\Debug\miri.pdb
+C:\Users\Predator\Desktop\miri\miri\miri\obj\Debug\miri.csproj.AssemblyReference.cache
+C:\Users\Predator\Desktop\miri\miri\miri\obj\Debug\miri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Predator\Desktop\miri\miri\miri\obj\Debug\miri.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Desktop\miri\miri\miri\obj\Debug\miri.exe
+C:\Users\Predator\Desktop\miri\miri\miri\obj\Debug\miri.pdb
